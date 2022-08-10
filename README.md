@@ -1,1 +1,2 @@
-# starter-pipeline-template
+# sandbox-pipeline
+Pipeline sandbox environment to test.
